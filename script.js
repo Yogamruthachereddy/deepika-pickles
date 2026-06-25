@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       about_tagline: "Experience the Magic of Homemade Pickles",
       about_title: "The Story of Deepika Pickles",
-      about_p1: "Our journey began in Chittoor, Andhra Pradesh, inside a warm family kitchen filled with the aroma of roasting mustard seeds, fenugreek, and cold-pressed oils. Deepika Pickles was born out of a passion for preserving traditional Indian culinary heritage, using age-old recipes passed down through generations.",
+      about_p1: "Our journey began in Rajampet, Andhra Pradesh, inside a warm family kitchen filled with the aroma of roasting mustard seeds, fenugreek, and cold-pressed oils. Deepika Pickles was born out of a passion for preserving traditional Indian culinary heritage, using age-old recipes passed down through generations.",
       about_p2: "We believe that pickles are not just side dishes, but the heart of an Indian meal. That is why we source the freshest local mangoes, plump lemons, and green roselle (Gongura) leaves directly from local farmers. Every single jar is packed by hand under strict hygienic standards, ensuring an authentic taste that reminds you of home.",
       about_feat1: "Family Recipes",
       about_feat2: "Locally Sourced",
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
       why_card7_desc: "We pack and ship our pickles immediately after receiving orders. Delivery reaches across India with prompt transit tracking.",
       
       prod_title: "Our Homemade Pickles",
-      prod_sub: "Explore our premium range of freshly prepared traditional South Indian pickles. Sourced from Chittoor and prepared by hand.",
+      prod_sub: "Explore our premium range of freshly prepared traditional South Indian pickles. Sourced from Rajampet and prepared by hand.",
       prod_search_placeholder: "Search for pickles (e.g. Mango, Tomato, Chicken)...",
       filter_all: "All Pickles",
       filter_veg: "Veg Pickles",
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       about_tagline: "ఇంట్లోనే చేసిన రుచికరమైన పచ్చళ్ళ మ్యాజిక్",
       about_title: "దీపిక పచ్చళ్ళ ప్రస్థానం",
-      about_p1: "మా ప్రస్థానం ఆంధ్రప్రదేశ్‌లోని చిత్తూరులో, ఆవాలు, మెంతులు, స్వచ్ఛమైన నూనెల సువాసనలతో నిండిన ఒక చిన్న ఇంటి వంటగదిలో ప్రారంభమైంది. తరతరాల నుండి మాకు అందించబడిన సాంప్రదాయ వంటకాలను భద్రపరచాలనే తపనతో దీపికా పచ్చళ్ళు పుట్టుకొచ్చాయి.",
+      about_p1: "మా ప్రస్థానం ఆంధ్రప్రదేశ్‌లోని రాజంపేటలో, ఆవాలు, మెంతులు, స్వచ్ఛమైన నూనెల సువాసనలతో నిండిన ఒక చిన్న ఇంటి వంటగదిలో ప్రారంభమైంది. తరతరాల నుండి మాకు అందించబడిన సాంప్రదాయ వంటకాలను భద్రపరచాలనే తపనతో దీపికా పచ్చళ్ళు పుట్టుకొచ్చాయి.",
       about_p2: "భారతీయ భోజనానికి పచ్చళ్లే ప్రాణం అని మేము నమ్ముతాము. అందుకే మేము స్థానిక రైతుల నుండి స్వచ్ఛమైన మామిడికాయలు, నిమ్మకాయలు, మరియు తాజా గోంగూర ఆకులను నేరుగా సేకరిస్తాము. ప్రతి జార్ కూడా పరిశుభ్రమైన వాతావरणంలో చేతితో ప్యాక్ చేయబడుతుంది.",
       about_feat1: "తరాల నాటి వంటకాలు",
       about_feat2: "స్థానికంగా సేకరించినవి",
@@ -369,7 +369,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       about_tagline: "घर के बने अचार का जादू चखें",
       about_title: "दीपिका अचार की कहानी",
-      about_p1: "हमारी यात्रा आंध्र प्रदेश के चित्तूर में, सरसों, मेथी और कोल्ड-प्रेस तेलों की सुगंध से भरी एक पारिवारिक रसोई में शुरू हुई। पीढ़ियों से चली आ रही पारंपरिक व्यंजनों को सहेजने के जुनून से दीपिका अचार का जन्म हुआ।",
+      about_p1: "हमारी यात्रा आंध्र प्रदेश के राजमपेट में, सरसों, मेथी और कोल्ड-प्रेस तेलों की सुगंध से भरी एक पारिवारिक रसोई में शुरू हुई। पीढ़ियों से चली आ रही पारंपरिक व्यंजनों को सहेजने के जुनून से दीपिका अचार का जन्म हुआ।",
       about_p2: "हमारा मानना है कि अचार सिर्फ साइड डिश नहीं, बल्कि भारतीय भोजन का दिल है। इसलिए हम ताजे कच्चे आम, नींबू और हरी गोंगुरा पत्तियों को सीधे स्थानीय किसानों से खरीदते हैं। प्रत्येक जार को स्वच्छ परिस्थितियों में हाथ से पैक किया जाता है।",
       about_feat1: "पारंपरिक रेसिपी",
       about_feat2: "स्थानीय सामग्री",
@@ -393,7 +393,7 @@ document.addEventListener('DOMContentLoaded', () => {
       why_card7_desc: "ऑर्डर मिलते ही हम तुरंत डिस्पैच करते हैं। लीक-proof पैकेजिंग के साथ पूरे भारत में सुरक्षित डिलीवरी की जाती है।",
       
       prod_title: "हमारे होममेड अचार",
-      prod_sub: "चित्तूर से मंगाई गई ताजी सामग्री और हाथ से बने पारंपरिक आंध्र के शाकाहारी और मांसाहारी अचारों की सूची देखें।",
+      prod_sub: "राजमपेट से मंगाई गई ताजी सामग्री और हाथ से बने पारंपरिक आंध्र के शाकाहारी और मांसाहारी अचारों की सूची देखें।",
       prod_search_placeholder: "अचार खोजें (जैसे: आम, टमाटर, चिकन)...",
       filter_all: "सभी अचार",
       filter_veg: "शाकाहारी अचार",
